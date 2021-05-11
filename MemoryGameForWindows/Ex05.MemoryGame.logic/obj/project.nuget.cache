@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+y374eOkUymXNNtPxUI5UZGC+5rVc4jREGVKhesvozCYB/o7mz3H0oFo0VXLmb14wQR041tEvwX6iwL1Hz2Ejw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\march\\Desktop\\Computer Science\\.NET C#\\DN_HIT_2020C_Ex05\\MemoryGameForWindows\\Ex05.MemoryGame.logic\\Ex05.MemoryGame.logic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\march\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\march\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
